@@ -1,0 +1,291 @@
+Log_ID,IP_Address,Protocol,Data_KB,Time,Description
+LOG_001,192.168.1.15,HTTPS,43,8:32,User Login: jsmith
+LOG_002,192.168.1.22,DNS,1,8:33,Standard Query Response
+LOG_003,192.168.1.15,HTTPS,150,8:45,File Accessed: /Shared/Marketing/Q1_Report.pdf
+LOG_004,192.168.1.10,SMTP,450,9:02,Outgoing Mail: smtp.office365.com
+LOG_005,192.168.1.44,HTTPS,12,9:15,Password Change: Success
+LOG_006,192.168.1.15,HTTPS,85,9:22,User Logout: jsmith
+LOG_007,192.168.1.33,ICMP,0,9:40,Echo Request (Ping)
+LOG_008,192.168.1.12,HTTPS,211,10:05,User Login: tbrown
+LOG_009,192.168.1.12,HTTPS,15,10:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_010,192.168.1.49,DNS,1,10:30,Standard Query Response
+LOG_011,192.168.1.25,HTTPS,60,11:02,User Login: akumar
+LOG_012,192.168.1.10,SMTP,1201,11:15,Outgoing Mail: Attachment sent
+LOG_013,192.168.1.25,HTTPS,4,11:45,System Update: Check for Updates
+LOG_014,192.168.1.18,DNS,1,12:10,Standard Query Response
+LOG_015,192.168.1.30,HTTPS,25,12:30,User Login: lgarcia
+LOG_016,192.168.1.30,HTTPS,315,12:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_017,192.168.1.41,ICMP,0,13:10,Echo Request (Ping)
+LOG_018,192.168.1.14,HTTPS,19,13:25,User Login: bwhite
+LOG_019,192.168.1.14,HTTPS,3,13:40,File Accessed: /Public/Templates/News.docx
+LOG_020,192.168.1.14,HTTPS,45,14:12,User Logout: bwhite
+LOG_021,192.168.1.10,HTTPS,15,14:30,User Login: rhenry
+LOG_022,192.168.1.12,DNS,1,14:32,Standard Query Response
+LOG_023,192.168.1.10,HTTPS,89,14:45,File Accessed: /Finance/Budget_2026.xlsx
+LOG_024,192.168.1.10,HTTPS,12,14:55,User Logout: rhenry
+LOG_025,192.168.1.28,HTTPS,32,15:10,User Login: vpatel
+LOG_026,192.168.1.28,HTTPS,15,15:20,File Accessed: /IT/Inventory.csv
+LOG_027,192.168.1.33,ICMP,0,15:35,Echo Request (Ping)
+LOG_028,192.168.1.15,HTTPS,110,15:50,User Login: jsmith
+LOG_029,192.168.1.15,HTTPS,16,16:10,File Accessed: /Marketing/Social_Plan.pptx
+LOG_030,192.168.1.15,HTTPS,22,16:30,User Logout: jsmith
+LOG_031,192.168.1.40,DNS,1,16:45,Standard Query Response
+LOG_032,192.168.1.22,HTTPS,46,17:02,User Login: mlee
+LOG_033,192.168.1.22,HTTPS,13,17:15,User Logout: mlee
+LOG_034,192.168.1.10,SMTP,36,17:30,Outgoing Mail: EOD Report
+LOG_035,192.168.1.1,HTTPS,5,17:45,DHCP Lease Renewal
+LOG_036,192.168.1.15,HTTPS,43,8:32,User Login: jsmith
+LOG_037,192.168.1.22,DNS,1,8:33,Standard Query Response
+LOG_038,192.168.1.15,HTTPS,150,8:45,File Accessed: /Shared/Marketing/Q1_Report.pdf
+LOG_039,192.168.1.10,SMTP,450,9:02,Outgoing Mail: smtp.office365.com
+LOG_040,192.168.1.44,HTTPS,12,9:15,Password Change: Success
+LOG_041,192.168.1.15,HTTPS,85,9:22,User Logout: jsmith
+LOG_042,192.168.1.33,ICMP,0,9:40,Echo Request (Ping)
+LOG_043,192.168.1.12,HTTPS,211,10:05,User Login: tbrown
+LOG_044,192.168.1.12,HTTPS,15,10:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_045,192.168.1.49,DNS,1,10:30,Standard Query Response
+LOG_046,192.168.1.25,HTTPS,60,11:02,User Login: akumar
+LOG_047,192.168.1.10,SMTP,1201,11:15,Outgoing Mail: Attachment sent
+LOG_048,192.168.1.25,HTTPS,4,11:45,System Update: Check for Updates
+LOG_049,192.168.1.18,DNS,1,12:10,Standard Query Response
+LOG_050,192.168.1.30,HTTPS,25,12:30,User Login: lgarcia
+LOG_051,192.168.1.30,HTTPS,315,12:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_052,192.168.1.41,ICMP,0,13:10,Echo Request (Ping)
+LOG_053,192.168.1.14,HTTPS,19,13:25,User Login: bwhite
+LOG_054,192.168.1.14,HTTPS,3,13:40,File Accessed: /Public/Templates/News.docx
+LOG_055,192.168.1.14,HTTPS,45,14:12,User Logout: bwhite
+LOG_056,192.168.1.10,HTTPS,15,14:30,User Login: rhenry
+LOG_057,192.168.1.12,DNS,1,14:32,Standard Query Response
+LOG_058,192.168.1.10,HTTPS,89,14:45,File Accessed: /Finance/Budget_2026.xlsx
+LOG_059,192.168.1.10,HTTPS,12,14:55,User Logout: rhenry
+LOG_060,192.168.1.28,HTTPS,32,15:10,User Login: vpatel
+LOG_061,192.168.1.28,HTTPS,15,15:20,File Accessed: /IT/Inventory.csv
+LOG_062,192.168.1.33,ICMP,0,15:35,Echo Request (Ping)
+LOG_063,192.168.1.15,HTTPS,110,15:50,User Login: jsmith
+LOG_064,192.168.1.15,HTTPS,16,16:10,File Accessed: /Marketing/Social_Plan.pptx
+LOG_065,192.168.1.15,HTTPS,22,16:30,User Logout: jsmith
+LOG_066,192.168.1.40,DNS,1,16:45,Standard Query Response
+LOG_067,192.168.1.22,HTTPS,46,17:02,User Login: mlee
+LOG_068,192.168.1.22,HTTPS,13,17:15,User Logout: mlee
+LOG_069,192.168.1.10,SMTP,36,17:30,Outgoing Mail: EOD Report
+LOG_070,192.168.1.1,HTTPS,5,17:45,DHCP Lease Renewal
+LOG_071,192.168.1.15,HTTPS,43,8:32,User Login: jsmith
+LOG_072,192.168.1.22,DNS,1,8:33,Standard Query Response
+LOG_073,192.168.1.15,HTTPS,150,8:45,File Accessed: /Shared/Marketing/Q1_Report.pdf
+LOG_074,192.168.1.10,SMTP,450,9:02,Outgoing Mail: smtp.office365.com
+LOG_075,192.168.1.44,HTTPS,12,9:15,Password Change: Success
+LOG_076,192.168.1.15,HTTPS,85,9:22,User Logout: jsmith
+LOG_077,192.168.1.33,ICMP,0,9:40,Echo Request (Ping)
+LOG_078,192.168.1.12,HTTPS,211,10:05,User Login: tbrown
+LOG_079,192.168.1.12,HTTPS,15,10:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_080,192.168.1.49,DNS,1,10:30,Standard Query Response
+LOG_081,192.168.1.25,HTTPS,60,11:02,User Login: akumar
+LOG_082,192.168.1.10,SMTP,1201,11:15,Outgoing Mail: Attachment sent
+LOG_083,192.168.1.25,HTTPS,4,11:45,System Update: Check for Updates
+LOG_084,192.168.1.18,DNS,1,12:10,Standard Query Response
+LOG_085,192.168.1.30,HTTPS,25,12:30,User Login: lgarcia
+LOG_086,192.168.1.30,HTTPS,315,12:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_087,192.168.1.41,ICMP,0,13:10,Echo Request (Ping)
+LOG_088,192.168.1.14,HTTPS,19,13:25,User Login: bwhite
+LOG_089,192.168.1.14,HTTPS,3,13:40,File Accessed: /Public/Templates/News.docx
+LOG_090,192.168.1.14,HTTPS,45,14:12,User Logout: bwhite
+LOG_091,192.168.1.10,HTTPS,15,14:30,User Login: rhenry
+LOG_092,192.168.1.12,DNS,1,14:32,Standard Query Response
+LOG_093,192.168.1.10,HTTPS,89,14:45,File Accessed: /Finance/Budget_2026.xlsx
+LOG_094,192.168.1.10,HTTPS,12,14:55,User Logout: rhenry
+LOG_095,192.168.1.28,HTTPS,32,15:10,User Login: vpatel
+LOG_096,192.168.1.28,HTTPS,15,15:20,File Accessed: /IT/Inventory.csv
+LOG_097,192.168.1.33,ICMP,0,15:35,Echo Request (Ping)
+LOG_098,192.168.1.15,HTTPS,110,15:50,User Login: jsmith
+LOG_099,192.168.1.15,HTTPS,16,16:10,File Accessed: /Marketing/Social_Plan.pptx
+LOG_100,192.168.1.15,HTTPS,22,16:30,User Logout: jsmith
+LOG_101,192.168.1.10,HTTPS,13,9:12,User Login: ksanders
+LOG_102,192.168.1.10,HTTPS,4,9:45,File Accessed: /HR/Hiring_Status.docx
+LOG_103,192.168.1.44,DNS,1,10:15,Standard Query Response
+LOG_104,192.168.1.22,HTTPS,62,10:50,User Login: mlee
+LOG_105,192.168.1.22,HTTPS,185,11:20,File Accessed: /Marketing/Campaigns.xlsx
+LOG_106,192.168.1.1,ICMP,0,11:45,Echo Request (Ping)
+LOG_107,192.168.1.15,HTTPS,45,12:15,User Login: jsmith
+LOG_108,192.168.1.10,SMTP,380,13:02,Outgoing Mail: smtp.office365.com
+LOG_109,192.168.1.44,HTTPS,12,13:15,Password Change: Success
+LOG_110,192.168.1.15,HTTPS,85,13:22,User Logout: jsmith
+LOG_111,192.168.1.33,ICMP,0,13:40,Echo Request (Ping)
+LOG_112,192.168.1.12,HTTPS,211,14:05,User Login: tbrown
+LOG_113,192.168.1.12,HTTPS,15,14:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_114,192.168.1.49,DNS,1,14:30,Standard Query Response
+LOG_115,192.168.1.25,HTTPS,60,15:02,User Login: akumar
+LOG_116,192.168.1.10,SMTP,1201,15:15,Outgoing Mail: Attachment sent
+LOG_117,192.168.1.25,HTTPS,4,15:45,System Update: Check for Updates
+LOG_118,192.168.1.18,DNS,1,16:10,Standard Query Response
+LOG_119,192.168.1.30,HTTPS,25,16:30,User Login: lgarcia
+LOG_120,192.168.1.30,HTTPS,315,16:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_121,192.168.1.41,ICMP,0,17:10,Echo Request (Ping)
+LOG_122,192.168.1.14,HTTPS,19,17:25,User Login: bwhite
+LOG_123,192.168.1.14,HTTPS,3,17:40,File Accessed: /Public/Templates/News.docx
+LOG_124,192.168.1.14,HTTPS,45,17:55,User Logout: bwhite
+LOG_125,192.168.1.10,HTTPS,15,8:30,User Login: rhenry
+LOG_126,192.168.1.12,DNS,1,8:32,Standard Query Response
+LOG_127,192.168.1.10,HTTPS,89,8:45,File Accessed: /Finance/Budget_2026.xlsx
+LOG_128,192.168.1.10,HTTPS,12,8:55,User Logout: rhenry
+LOG_129,192.168.1.28,HTTPS,32,9:10,User Login: vpatel
+LOG_130,192.168.1.28,HTTPS,15,9:20,File Accessed: /IT/Inventory.csv
+LOG_131,192.168.1.33,ICMP,0,9:35,Echo Request (Ping)
+LOG_132,192.168.1.15,HTTPS,110,9:50,User Login: jsmith
+LOG_133,192.168.1.15,HTTPS,16,10:10,File Accessed: /Marketing/Social_Plan.pptx
+LOG_134,192.168.1.15,HTTPS,22,10:30,User Logout: jsmith
+LOG_135,192.168.1.40,DNS,1,10:45,Standard Query Response
+LOG_136,192.168.1.22,HTTPS,46,11:02,User Login: mlee
+LOG_137,192.168.1.22,HTTPS,13,11:15,User Logout: mlee
+LOG_138,192.168.1.10,SMTP,36,11:30,Outgoing Mail: EOD Report
+LOG_139,192.168.1.1,HTTPS,5,11:45,DHCP Lease Renewal
+LOG_140,192.168.1.15,HTTPS,43,12:32,User Login: jsmith
+LOG_141,192.168.1.22,DNS,1,12:33,Standard Query Response
+LOG_142,192.168.1.15,HTTPS,150,12:45,File Accessed: /Shared/Marketing/Q1_Report.pdf
+LOG_143,192.168.1.10,SMTP,450,13:02,Outgoing Mail: smtp.office365.com
+LOG_144,192.168.1.44,HTTPS,12,13:15,Password Change: Success
+LOG_145,192.168.1.15,HTTPS,85,13:22,User Logout: jsmith
+LOG_146,192.168.1.33,ICMP,0,13:40,Echo Request (Ping)
+LOG_147,192.168.1.12,HTTPS,211,14:05,User Login: tbrown
+LOG_148,192.168.1.12,HTTPS,15,14:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_149,192.168.1.49,DNS,1,14:30,Standard Query Response
+LOG_150,192.168.1.25,HTTPS,60,15:02,User Login: akumar
+LOG_151,192.168.1.10,SMTP,1201,15:15,Outgoing Mail: Attachment sent
+LOG_152,192.168.1.25,HTTPS,4,15:45,System Update: Check for Updates
+LOG_153,192.168.1.18,DNS,1,16:10,Standard Query Response
+LOG_154,192.168.1.30,HTTPS,25,16:30,User Login: lgarcia
+LOG_155,192.168.1.30,HTTPS,315,16:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_156,192.168.1.41,ICMP,0,17:10,Echo Request (Ping)
+LOG_157,192.168.1.14,HTTPS,19,17:25,User Login: bwhite
+LOG_158,192.168.1.14,HTTPS,3,17:40,File Accessed: /Public/Templates/News.docx
+LOG_159,192.168.1.14,HTTPS,45,17:55,User Logout: bwhite
+LOG_160,192.168.1.10,HTTPS,15,8:30,User Login: rhenry
+LOG_161,192.168.1.12,DNS,1,8:32,Standard Query Response
+LOG_162,192.168.1.10,HTTPS,89,8:45,File Accessed: /Finance/Budget_2026.xlsx
+LOG_163,192.168.1.10,HTTPS,12,8:55,User Logout: rhenry
+LOG_164,192.168.1.28,HTTPS,32,9:10,User Login: vpatel
+LOG_165,192.168.1.28,HTTPS,15,9:20,File Accessed: /IT/Inventory.csv
+LOG_166,192.168.1.33,ICMP,0,9:35,Echo Request (Ping)
+LOG_167,192.168.1.15,HTTPS,110,9:50,User Login: jsmith
+LOG_168,192.168.1.15,HTTPS,16,10:10,File Accessed: /Marketing/Social_Plan.pptx
+LOG_169,192.168.1.15,HTTPS,22,10:30,User Logout: jsmith
+LOG_170,192.168.1.40,DNS,1,10:45,Standard Query Response
+LOG_171,192.168.1.22,HTTPS,46,11:02,User Login: mlee
+LOG_172,192.168.1.22,HTTPS,13,11:15,User Logout: mlee
+LOG_173,192.168.1.10,SMTP,36,11:30,Outgoing Mail: EOD Report
+LOG_174,192.168.1.1,HTTPS,5,11:45,DHCP Lease Renewal
+LOG_175,192.168.1.15,HTTPS,43,12:32,User Login: jsmith
+LOG_176,192.168.1.22,DNS,1,12:33,Standard Query Response
+LOG_177,192.168.1.15,HTTPS,150,12:45,File Accessed: /Shared/Marketing/Q1_Report.pdf
+LOG_178,192.168.1.10,SMTP,450,13:02,Outgoing Mail: smtp.office365.com
+LOG_179,192.168.1.44,HTTPS,12,13:15,Password Change: Success
+LOG_180,192.168.1.15,HTTPS,85,13:22,User Logout: jsmith
+LOG_181,192.168.1.33,ICMP,0,13:40,Echo Request (Ping)
+LOG_182,192.168.1.12,HTTPS,211,14:05,User Login: tbrown
+LOG_183,192.168.1.12,HTTPS,15,14:12,File Accessed: /Shared/HR/Handbook.pdf
+LOG_184,192.168.1.49,DNS,1,14:30,Standard Query Response
+LOG_185,192.168.1.25,HTTPS,60,15:02,User Login: akumar
+LOG_186,192.168.1.10,SMTP,1201,15:15,Outgoing Mail: Attachment sent
+LOG_187,192.168.1.25,HTTPS,4,15:45,System Update: Check for Updates
+LOG_188,192.168.1.18,DNS,1,16:10,Standard Query Response
+LOG_189,192.168.1.30,HTTPS,25,16:30,User Login: lgarcia
+LOG_190,192.168.1.30,HTTPS,315,16:45,File Accessed: /Shared/Sales/Invoices.xlsx
+LOG_191,104.22.11.84,SSH,0,2:58,Port Scan Detected: Port 22
+LOG_192,104.22.11.84,SSH,0,2:59,Port Scan Detected: Port 80
+LOG_193,104.22.11.84,SSH,0,3:01,Port Scan Detected: Port 443
+LOG_194,104.22.11.84,SSH,1,3:10,Failed Login Attempt: Admin
+LOG_195,104.22.11.84,SSH,1,3:12,Failed Login Attempt: Root
+LOG_196,104.22.11.84,SSH,1,3:14,Failed Login Attempt: Service_Acct
+LOG_197,104.22.11.84,SSH,5,3:20,Login Success: admin_backup
+LOG_198,104.22.11.84,SSH,12,3:45,Directory Listing: /Home/Admin/Backups/
+LOG_199,104.22.11.84,FTP,5,4:01,FTP Connection Initialized
+LOG_200,104.22.11.84,FTP,8250000,4:12,Bulk Data Transfer: Full_Server_Backup.zip
+LOG_201,192.168.1.50,HTTPS,11,6:15,Security Alert: High Bandwidth Detected
+LOG_202,10.0.0.1,SSH,4,6:18,Admin Login: chief_security_officer
+LOG_203,10.0.0.1,SSH,1,6:22,User Account Locked: admin_backup
+LOG_204,192.168.1.10,HTTPS,15,8:02,User Login: jsmith
+LOG_205,192.168.1.10,HTTPS,5,8:05,Force Password Reset: jsmith (Required)
+LOG_206,192.168.1.12,HTTPS,5,8:10,Force Password Reset: tbrown (Required)
+LOG_207,104.22.11.84,HTTPS,0,8:15,Automated Check: Sync_Service
+LOG_208,192.168.1.15,HTTPS,5,8:16,Force Password Reset: akumar (Required)
+LOG_209,10.0.0.1,SSH,3,8:20,Firewall Rule Added: BLOCK 104.22.11.84
+LOG_210,192.168.1.20,HTTPS,8,8:30,User Login: lgarcia
+LOG_211,192.168.1.20,HTTPS,5,8:32,Force Password Reset: lgarcia (Required)
+LOG_212,192.168.1.33,ICMP,0,8:45,Diagnostic: Ping Internal Servers
+LOG_213,10.0.0.1,SSH,15,9:00,System Audit: Log Export Started
+LOG_214,192.168.1.40,HTTPS,12,9:10,User Login: rhenry
+LOG_215,192.168.1.40,HTTPS,5,9:12,Force Password Reset: rhenry (Required)
+LOG_216,192.168.1.10,HTTPS,4,9:20,Antivirus Scan: Node_10 (Clean)
+LOG_217,192.168.1.12,HTTPS,4,9:25,Antivirus Scan: Node_12 (Clean)
+LOG_218,104.22.11.84,HTTPS,0,9:30,Connection Blocked: Firewall Rule 404
+LOG_219,192.168.1.18,HTTPS,5,9:45,Force Password Reset: vpatel (Required)
+LOG_220,192.168.1.15,HTTPS,45,10:00,User Login: jsmith (New Credentials)
+LOG_221,192.168.1.50,HTTPS,1,10:15,Patch Installed: KB500214 (Security)
+LOG_222,192.168.1.22,HTTPS,5,10:30,Force Password Reset: mlee (Required)
+LOG_223,192.168.1.30,HTTPS,5,10:45,Force Password Reset: bwhite (Required)
+LOG_224,10.0.0.1,SSH,50,11:00,Database Integrity Check: Passed
+LOG_225,192.168.1.44,HTTPS,5,11:15,Force Password Reset: pchen (Required)
+LOG_226,192.168.1.33,ICMP,0,11:30,Diagnostic: Ping Internal Servers
+LOG_227,192.168.1.12,HTTPS,38,11:45,User Login: tbrown (New Credentials)
+LOG_228,192.168.1.10,SMTP,1,12:00,Broadcast: All Staff Security Briefing
+LOG_229,192.168.1.50,HTTPS,2,12:30,Security Token: Re-issued for s_admin
+LOG_230,10.0.0.5,SSH,1,13:00,System Command: rm /tmp/hacker_tools.sh
+LOG_231,192.168.1.20,HTTPS,14,13:15,User Login: lgarcia (New Credentials)
+LOG_232,192.168.1.25,HTTPS,5,13:30,Force Password Reset: akumar (Required)
+LOG_233,192.168.1.33,ICMP,0,13:45,Diagnostic: Ping Internal Servers
+LOG_234,192.168.1.40,HTTPS,22,14:00,User Login: rhenry (New Credentials)
+LOG_235,192.168.1.10,HTTPS,4,14:15,Antivirus Scan: Node_40 (Clean)
+LOG_236,192.168.1.28,HTTPS,5,14:30,Force Password Reset: vpatel (Required)
+LOG_237,10.0.0.1,SSH,1,14:45,System Audit: Checking Shadow File
+LOG_238,192.168.1.41,DNS,1,15:00,Resolution: internal-it-support.local
+LOG_239,192.168.1.33,ICMP,0,15:15,Diagnostic: Ping Internal Servers
+LOG_240,10.0.0.1,SSH,0,15:30,"Discovery: Hidden User ""temp_guest"" found"
+LOG_241,192.168.1.15,HTTPS,5,15:45,User Login: jsmith
+LOG_242,192.168.1.50,SSH,2,15:50,Login Attempt: temp_guest (Internal IP)
+LOG_243,10.0.0.1,SSH,0,15:55,Account Deleted: temp_guest
+LOG_244,192.168.1.30,HTTPS,18,16:00,User Login: bwhite (New Credentials)
+LOG_245,192.168.1.44,HTTPS,22,16:15,User Login: pchen (New Credentials)
+LOG_246,192.168.1.33,ICMP,0,16:30,Diagnostic: Ping Internal Servers
+LOG_247,192.168.1.10,SMTP,36,16:45,Outgoing Mail: Incident Report Finalized
+LOG_248,192.168.1.50,HTTPS,1,17:00,System Log: Forensic Snapshot Taken
+LOG_249,192.168.1.1,HTTPS,5,17:15,DHCP Lease Renewal: Internal
+LOG_250,10.0.0.1,SSH,1,17:30,Admin Logout: chief_security_officer
+LOG_251,192.168.1.22,HTTPS,42,17:35,User Login: mlee (New Credentials)
+LOG_252,192.168.1.22,HTTPS,19,17:40,File Accessed: /Shared/Drafts/Review.docx
+LOG_253,192.168.1.12,HTTPS,25,17:45,User Login: dclark (New Credentials)
+LOG_254,192.168.1.10,SMTP,45,18:00,System Alert: All Passwords Expired
+LOG_255,192.168.1.50,HTTPS,121,18:15,Security Patch: CVE-2026-1024 Applied
+LOG_256,192.168.1.33,ICMP,0,18:30,Diagnostic: Ping Internal Servers
+LOG_257,192.168.1.18,HTTPS,5,18:45,User Logout: vpatel
+LOG_258,192.168.1.30,HTTPS,22,19:00,User Login: lgarcia (Session Restored)
+LOG_259,192.168.1.30,HTTPS,115,19:15,File Accessed: /Sales/Customer_List.csv
+LOG_260,192.168.1.10,HTTPS,4,19:30,Antivirus Scan: Node_30 (Clean)
+LOG_261,192.168.1.33,ICMP,0,19:45,Diagnostic: Ping Internal Servers
+LOG_262,192.168.1.40,HTTPS,18,20:00,User Logout: rhenry
+LOG_263,192.168.1.15,HTTPS,5,20:15,User Logout: jsmith
+LOG_264,192.168.1.12,HTTPS,22,20:30,User Logout: dclark
+LOG_265,192.168.1.1,HTTPS,5,20:45,DHCP Lease Renewal: Internal
+LOG_266,192.168.1.22,HTTPS,13,21:00,User Logout: mlee
+LOG_267,10.0.0.1,SSH,85,21:10,System Audit: Log Export to Vault
+LOG_268,192.168.1.50,HTTPS,2,21:20,Security Policy Updated: MFA Required
+LOG_269,192.168.1.10,HTTPS,4,21:30,Antivirus Scan: Node_10 (Clean)
+LOG_270,192.168.1.12,HTTPS,4,21:35,Antivirus Scan: Node_12 (Clean)
+LOG_271,192.168.1.14,HTTPS,4,21:40,Antivirus Scan: Node_14 (Clean)
+LOG_272,192.168.1.15,HTTPS,4,21:45,Antivirus Scan: Node_15 (Clean)
+LOG_273,192.168.1.18,HTTPS,4,21:50,Antivirus Scan: Node_18 (Clean)
+LOG_274,192.168.1.20,HTTPS,4,21:55,Antivirus Scan: Node_20 (Clean)
+LOG_275,192.168.1.22,HTTPS,4,22:00,Antivirus Scan: Node_22 (Clean)
+LOG_276,192.168.1.25,HTTPS,4,22:05,Antivirus Scan: Node_25 (Clean)
+LOG_277,192.168.1.28,HTTPS,4,22:10,Antivirus Scan: Node_28 (Clean)
+LOG_278,192.168.1.30,HTTPS,4,22:15,Antivirus Scan: Node_30 (Clean)
+LOG_279,192.168.1.33,HTTPS,4,22:20,Antivirus Scan: Node_33 (Clean)
+LOG_280,192.168.1.40,HTTPS,4,22:25,Antivirus Scan: Node_40 (Clean)
+LOG_281,192.168.1.41,HTTPS,4,22:30,Antivirus Scan: Node_41 (Clean)
+LOG_282,192.168.1.44,HTTPS,4,22:35,Antivirus Scan: Node_44 (Clean)
+LOG_283,192.168.1.47,HTTPS,4,22:40,Antivirus Scan: Node_47 (Clean)
+LOG_284,192.168.1.49,HTTPS,4,22:45,Antivirus Scan: Node_49 (Clean)
+LOG_285,10.0.0.1,SSH,1,23:00,Service Restart: Web_Server
+LOG_286,10.0.0.1,SSH,1,23:05,Service Restart: Mail_Server
+LOG_287,10.0.0.1,SSH,1,23:10,Service Restart: SQL_Server
+LOG_288,192.168.1.50,HTTPS,1,23:15,Log Rotation: Archive created
+LOG_289,10.0.0.5,HTTPS,0,23:45,Heartbeat: Monitoring System OK
+LOG_290,192.168.1.10,HTTPS,12,0:00,Automated Backup: Success
